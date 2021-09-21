@@ -1,0 +1,11 @@
+Proposta:
+
+Elaborado Diagrama de Classes e código fonte em Java (elaborado parcialmente), com objetivo de administrar as rotinas de uma escola de cursos em geral.
+
+Link do diagrama:
+
+Link do codigo:
+
+
+Att.
+Diego Mesiano - Turma 4 FT
