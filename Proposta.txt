@@ -1,10 +1,12 @@
 Proposta:
 
-Elaborado Diagrama de Classes e código fonte em Java (elaborado parcialmente), com objetivo de administrar as rotinas de uma escola de cursos em geral.
+Elaborado Diagrama de Classes e código fonte em Java (código fonte elaborado parcialmente), com objetivo de administrar as rotinas de uma escola de cursos em geral.
 
-Link do diagrama:
+Link do diagrama: 
+https://github.com/diego-mesiano/CheckPointPoo/blob/master/DiagramaDeClasses.pdf
 
-Link do codigo:
+Link do codigo: 
+https://github.com/diego-mesiano/CheckPointPoo
 
 
 Att.
